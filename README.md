@@ -1,6 +1,6 @@
 # LatihanDataAnalist2024
 
-# set up untuk wrailing
+# set up untuk wrailing on vs code
 membuat folder baru (untuk wrailing)
 ```bash
 mkdir proyek_analisis_data
